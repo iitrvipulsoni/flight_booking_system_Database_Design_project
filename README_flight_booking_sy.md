@@ -2,7 +2,13 @@
 
 This project involves the design of a database for a flight booking system. The database will store information about flights, flight classes, airports, airlines, passengers, and tickets.
 
-The database will be designed using MySQL which is an open-source relational database management system and will follow the relational model.
+The database will be designed in 3 stage following the relational model:
+
+* Conceptual model - Using Draw.io 
+* Logical Model - Using Draw.io
+* Physical Model - Using MySQL 
+
+
 
 ## Entities and Attributes
 The following entities and attributes are included in the database:
